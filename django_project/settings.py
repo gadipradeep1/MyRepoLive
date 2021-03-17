@@ -25,7 +25,7 @@ SECRET_KEY = '0q!tx25*lm7a@4-%@a!6se%vh!)jzn%q*z%_0xp+2avk@*&ba('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gadigaduapp.herokuapp.com','127.0.0.1']
 
 
 # Application definition
