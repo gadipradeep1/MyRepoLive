@@ -141,7 +141,7 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'gadipradeep.career@gmail.com'
 EMAIL_HOST_PASSWORD = 'Ncpyrinb#8'
 
-django_heroku.settings.(locals())
+django_heroku.settings(locals())
 
 # EMAIL_HOST_USER = os.environ.get('EMAIL_USER')
 # EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASS')
